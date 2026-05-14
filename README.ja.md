@@ -7,7 +7,7 @@
 ### 3Dモデル
 
 - [裏砂漠第一展望台 (First Viewpoint) - iOS用USDZ](https://code4fukui.github.io/urasabaku/urasabaku-tenbo1.usdz)
-- [裏砂漠第一展望台 (First Viewpoint) - Web用GLB](https://code4fukui.github.io/urasabaku/urasabaku-tenbo1.glb)
+- [裏砂漠第一展望台 (First Viewpoint) - Web用GLB](https://github.com/code4fukui/urasabaku)
 - [裏砂漠第二展望台 (Second Viewpoint) - Web用GLB](https://code4fukui.github.io/urasabaku/urasabaku-tenbo2.glb)
 
 ### パノラマ写真

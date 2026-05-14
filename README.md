@@ -9,7 +9,7 @@ This repository contains 3D scans and related media of Urasabaku (裏砂漠), a 
 ### 3D Models
 
 - [裏砂漠第一展望台 (First Viewpoint) - USDZ for iOS](https://code4fukui.github.io/urasabaku/urasabaku-tenbo1.usdz)
-- [裏砂漠第一展望台 (First Viewpoint) - GLB for Web](https://code4fukui.github.io/urasabaku/urasabaku-tenbo1.glb)
+- [裏砂漠第一展望台 (First Viewpoint) - GLB for Web](https://github.com/code4fukui/urasabaku)
 - [裏砂漠第二展望台 (Second Viewpoint) - GLB for Web](https://code4fukui.github.io/urasabaku/urasabaku-tenbo2.glb)
 
 ### Panoramic Photo
